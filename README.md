@@ -25,7 +25,7 @@ text
 
 1. **Instalação**:
 ```bash
-git clone https://github.com/seu-usuario/quant_trader.git
+git clone https://github.com/Novalt/quant_trader.git
 cd quant_trader
 pip install -r requirements.txt
 Configuração:
