@@ -1,5 +1,9 @@
 # 🚀 QuantTrader - Sistema de Trading Quantitativo
 
+![GitHub](https://img.shields.io/github/license/Novalt/quant_trader)
+![GitHub last commit](https://img.shields.io/github/last-commit/Novalt/quant_trader)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Novalt/quant_trader)
+
 Sistema profissional de trading quantitativo com coleta de dados, processamento e estratégias automatizadas.
 
 ## 📊 Funcionalidades
