@@ -11,13 +11,14 @@ Sistema profissional de trading quantitativo com coleta de dados, processamento 
 - ✅ **Execução Automatizada**: Pipeline completo
 
 ## 🏗️ Estrutura
+```
 quant_trader/
 ├── pipelines/ # Coleta e processamento
 ├── strategies/ # Estratégias de trading
 ├── config/ # Configurações e APIs
 ├── utils/ # Utilitários e métricas
 └── data/ # Dados (local)
-
+´´´
 text
 
 ## 🚀 Como Usar
